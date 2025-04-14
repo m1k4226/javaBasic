@@ -8,18 +8,18 @@ public class Introduce2 {
 		// TODO 自動生成されたメソッド・スタブ
 
 		Scanner scan = new Scanner(System.in);
-		
+
 		System.out.println("情報を登録します");
-		
+
 		System.out.print("名前：");
-		
+
 		String name = scan.next();
-		
+
 //		配列で趣味3つ出す
-		
+
 		String[] hobbyList = new String[3];
-		
-		
+
+		// ここまでやってる
 
 	}
 
